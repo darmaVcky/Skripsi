@@ -1,0 +1,90 @@
+0	C	Maaa1	0	20	44798	nella
+0	C	Maa2	0	20	44798	luna
+0	C	Ma3	0	20	44798	nella
+0	C	Ma4	1	20	44798	luna
+0	C	Ma5	1	1	44798	maya
+0	C	M1a5	1	2	44798	maya
+0	C	Ma25	1	3	44798	maya
+0	C	Ma35	1	4	44798	maya
+0	C	Ma45	1	5	44798	maya
+0	C	Ma55	1	6	44798	maya
+0	C	Ma65	1	7	44798	maya
+0	C	Ma75	1	8	44798	maya
+0	C	Ma85	1	9	44798	maya
+0	C	Ma95	1	10	44798	maya
+0	C	Ma785	1	11	44798	maya
+0	C	Ma35	1	12	44798	maya
+0	C	Ma325	1	13	44798	maya
+0	C	Ma45	1	14	44798	maya
+0	C	Ma115	1	15	44798	maya
+0	C	Ma225	1	16	44798	maya
+0	C	Ma335	1	17	44798	maya
+0	C	Ma7	2	20	44798	maya
+20	C	Ma8	2	20	44798	via
+20	C	Ma9	2	20	44798	via
+20	C	Ma9	2	20	44798	via
+30	C	Ma9	2	20	44798	via
+30	C	Ma9	2	20	44798	via
+30	C	Ma9	2	20	44798	via
+30	C	Ma9	2	20	44798	via
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						

@@ -1,0 +1,15 @@
+0	C	luna		6	38	1	SUBS
+0	C	ana		7	25	1	SUBS
+0	C	maya		8	28	1	SUBS
+0	C	nella		9	22	1	SUBS
+0	C	via		10	22	1	SUBS
+0	C	nella		11	32	1	SUBS
+0	C	nella		12	1	1	SUBS
+0	C	ana		13	25	1	SUBS
+0	C	nella		14	40	1	SUBS
+0	C	maya		15	20	1	SUBS
+0	C	via		16	40	1	SUBS
+0	C	luna		17	30	1	SUBS
+0	C	ana		18	26	1	SUBS
+0	C	via		19	30	1	SUBS
+
